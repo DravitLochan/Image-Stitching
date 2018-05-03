@@ -1,0 +1,3 @@
+images/04_cornerA.jpg
+images/04_cornerB.jpg
+images/04_cornerC.jpg

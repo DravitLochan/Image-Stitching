@@ -1,0 +1,2 @@
+images/02_fieldA.jpg
+images/02_fieldB.jpg
